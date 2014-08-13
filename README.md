@@ -1,4 +1,8 @@
-greedy snake game on terminal
+#greedy-snake
+
+greedy snake game on terminal.
+
+![greedy-snake](./data/output.gif)
 
 ##Installation
 
