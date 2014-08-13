@@ -1,0 +1,21 @@
+{
+  "name": "greedy-snake",
+  "version": "1.0.0",
+  "description": "greedy snake game on terminal.",
+  "main": "index.js",
+  "repository": {
+  	"type": "git",
+  	"url": "git://github.com/towry/greedy-snake"
+  },
+  "keywords": ["game", "terminal"],
+  "author": "Towry Wang <http://towry.me>",
+  "license": "MIT",
+  "preferGlobal": "true",
+  "bin": {
+  	"greedy-snake": "bin/cli.js"
+  },
+  "dependencies": {
+    "keypress": "^0.2.1",
+    "term-cursor": "^1.0.2"
+  }
+}
