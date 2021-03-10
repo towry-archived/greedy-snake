@@ -1,26 +1,26 @@
-#greedy-snake
+# greedy-snake
 
 greedy snake game on terminal.
 
 ![greedy-snake](./data/output.gif)
 
-##Installation
+## Installation
 
 ```bash
 $ npm install greedy-snake -g
 ```
 
-##Play
+## Play
 
 ```bash
 $ greedy-snake [speed]
 ```
 
-###Options
+### Options
 
  * speed -- the speed of of the snake, will be passed to the `setInterval` function
 
-##License
+## License
 
 MIT
 
